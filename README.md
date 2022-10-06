@@ -1,6 +1,6 @@
 ## **Cursando o bootcamp da DIO sobre Ciência de Dados patrocinado pela UNIMED-BH**
 
-### **Onde me encontrar:**
+### **Onde me encontrar:** 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardocastro-datascience/)
 
 ### **Tecnologias em estudo:**
@@ -12,7 +12,6 @@
   <img alt= "Excel Avançado" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img alt= "SAP" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
 </div>  
-
 
 ![Eduardo Castro  GitHub stats](https://github-readme-stats.vercel.app/api?username=uercast&show_icons=true&theme=dracula)
 
