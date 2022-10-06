@@ -9,9 +9,17 @@
   <img alt= "SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt= "MONGODB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img alt= "AMAZON AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+
+</div>  
+
+### **Usuário Avançado**
+<div style = "display: inline_block">
   <img alt= "Excel Avançado" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img alt= "SAP" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
-</div>  <br/>
+  <img alt= "Powerpoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
+  <img alt= "SAP" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>  
+</div>  
+
+**OBS: SAP MÓDULOS PP E MM** <br/> <br/>
 
 ![Eduardo Castro  GitHub stats](https://github-readme-stats.vercel.app/api?username=uercast&show_icons=true&theme=dracula)
 
