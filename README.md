@@ -1,4 +1,4 @@
-## **Cursando o bootcamp da DIO sobre Ciência de Dados patrocinado pela UNIMED-BH**
+## **Analista de Logística Sênior / Power BI / Excel Avançado / VBA - SAP Scripting**
 
 ### **Tecnologias em estudo:**
 <div style = "display: inline_block">
